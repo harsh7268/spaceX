@@ -1,0 +1,16 @@
+.main img{
+    width: 100%;
+   
+}
+.button{
+    border: solid 2px #fff;
+    padding:15px 45px;
+    color: #fff;
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.button:hover{
+    background-color: #fff;
+    color: black;
+}
